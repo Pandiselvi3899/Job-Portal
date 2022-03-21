@@ -4,6 +4,7 @@
   "description": "The job Portal Backend",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "server": "nodemon server.js"
   },
   "author": "selvi",
